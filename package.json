@@ -1,0 +1,12 @@
+{
+  "name": "com.silverdale.apple-sign-in",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "displayName": "Apple Sign in",
+  "keywords": ["Project", "Apple", "Signin", "Provider"],
+  "description": "Unity Apple Sign in moved to UPM",
+  "author": {
+    "name": "Silverdale",
+    "url": "https://github.com/Dasparion"
+  }
+}
