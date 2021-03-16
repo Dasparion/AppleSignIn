@@ -1,3 +1,3 @@
 # Asset Reference Viewer
 
-Unity Apple Sign in moved to UPM
+Unity's own Apple Sign package from AssetStore. Moved to UPM for convenience.
