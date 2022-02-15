@@ -12,12 +12,5 @@
     "url": "https://github.com/SilverdaleGames/AppleSignIn.git"
   },
   "documentationUrl":"https://github.com/SilverdaleGames/AppleSignIn.git",
-  "changelogUrl":"https://github.com/SilverdaleGames/AppleSignIn/tags",
-  "samples": [
-    {
-      "displayName": "Demo",
-      "description": "Apple Sign-in demo",
-      "path": "Samples~/Demo"
-    }
-  ]
+  "changelogUrl":"https://github.com/SilverdaleGames/AppleSignIn/tags"
 }
