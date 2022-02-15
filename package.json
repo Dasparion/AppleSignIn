@@ -1,12 +1,16 @@
 {
-  "name": "com.silverdale.apple-sign-in",
+  "name": "applesignin",
+  "displayName": "Apple Sign-In",
   "version": "1.0.0",
   "unity": "2020.1",
-  "displayName": "Apple Sign in",
-  "keywords": ["Project", "Apple", "Signin", "Provider"],
-  "description": "Unity Apple Sign in moved to UPM",
-  "author": {
-    "name": "Silverdale",
-    "url": "https://github.com/Dasparion"
-  }
+  "description": "Plugin that allows implementation of Apple Sign In",
+  "keywords": [],
+  "category": "Unity",
+  "author": "Silverdale (https://github.com/SilverdaleGames)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SilverdaleGames/AppleSignIn.git"
+  },
+  "documentationUrl":"https://github.com/SilverdaleGames/AppleSignIn.git",
+  "changelogUrl":"https://github.com/SilverdaleGames/AppleSignIn/tags"
 }
