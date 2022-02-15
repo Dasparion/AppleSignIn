@@ -1,7 +1,7 @@
 {
   "name": "applesignin",
   "displayName": "Apple Sign-In",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "unity": "2020.1",
   "description": "Plugin that allows implementation of Apple Sign In",
   "keywords": [],
