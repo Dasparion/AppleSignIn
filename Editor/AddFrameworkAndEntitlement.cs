@@ -1,6 +1,6 @@
 using System.IO;
 
-#if UNITY_2018_4_OR_NEWER || (UNITY_STANDALONE_OSX && UNITY_2019_3_OR_NEWER)
+#if (UNITY_2018_4_OR_NEWER  || UNITY_2019_3_OR_NEWER) && UNITY_IOS
 using UnityEditor;
 using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
